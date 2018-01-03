@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+SMS XXXXX - Letters Module - Pendency of letters initiated by you as on XX-XX-XXXX:
+----------------------------------------------------------------------------------------------------------------------------------
+
+Pendency of letters initiated by you as on XX-XX-XXXX (SOLID):
+
+Total - XXXX
+
+Of which
+
+> 7 Days
+> 14 Days
+> 30 Days
+
+Letters Module
+
+Data already generated for the email - Letters Module - Sub department wise pendency as on
+Send only to the mobile number of responsible officers
+----------------------------------------------------------------------------------------------------------------------------------
